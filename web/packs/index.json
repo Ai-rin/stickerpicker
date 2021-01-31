@@ -1,7 +1,8 @@
 {
   "packs": [
     "Lyy_Art.json",
-    "LINE_JK_OL.json"
+    "LINE_JK_OL.json",
+    "LINE_Cat_girl_stickers_ENG.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
